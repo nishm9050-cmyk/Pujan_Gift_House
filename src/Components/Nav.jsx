@@ -78,7 +78,7 @@ function Nav() {
               to="/about"
               className="text-gray-700 hover:text-black font-medium transition"
             >
-              About
+              About Us
             </Link>
 
             {/* Contact */}
